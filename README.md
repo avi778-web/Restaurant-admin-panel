@@ -1,2 +1,2 @@
 # Restaurant-admin-panel
-this have only owner
+This have only owner
